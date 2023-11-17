@@ -1,0 +1,72 @@
+/* Header Styles */
+.header {
+  width: 100%;
+  height: 8vh;
+}
+
+/* Container Styles */
+.head_container {
+  display: flex;
+  justify-content: center;
+}
+
+/* Left and Right Styles */
+.left,
+.right {
+  width: 40%;
+  display: flex;
+  align-items: center;
+}
+
+/* Middle Styles */
+.middle {
+  width: 20%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Right  Additional Styles */
+.right {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+/* Left  Additional Styles */
+.left {
+  margin: 1px;
+  display: flex;
+  align-items: center;
+}
+
+/* Icon Styles */
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Middle Span Styles */
+.middle span {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Right Span Styles */
+.right span {
+  margin-right: 10px;
+}
+
+/* Right Image Styles */
+.right img {
+  width: 5vh;
+  border-radius: 50%;
+}
+
+/* Select Styles */
+.head_container select {
+  margin-left: 3px;
+  margin-right: 10px;
+}

@@ -1,0 +1,81 @@
+/* Footer Styles */
+.footer {
+  padding-top: 10px;
+}
+
+/* Container Styles */
+.fcontainer {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+/* Stat and Finance Styles */
+.stat,
+.finance {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  padding: 10px;
+  background-color: beige;
+  border-radius: 10px;
+}
+
+/* Button Styles */
+button {
+  border: none;
+  font-weight: bold;
+}
+
+/* Number Sections */
+.one,
+.two,
+.three {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+/* Section One */
+.one {
+  color: white;
+  background-color: blue;
+}
+
+.one span {
+  font-weight: bold;
+  font-size: 12px;
+  display: block;
+}
+
+/* Section Two */
+.two {
+  color: black;
+  background-color: greenyellow;
+}
+
+/* Section Three */
+.three {
+  color: black;
+  background-color: orange;
+}
+
+/* Section Four */
+.four {
+  padding: 10px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+/* Finance Section Icon Styles */
+.finance .icon {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+/* Sections Two and Three */
+.two,
+.three {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

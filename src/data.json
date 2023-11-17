@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/1.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/2.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/3.png"
+      }
+    ]
+  },
+      
+  {
+    "id": 2,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/4.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/5.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/6.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/1.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/2.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/3.png"
+      }
+    ]
+  },
+      
+  {
+    "id": 4,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/4.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/5.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/6.png"
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/1.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/2.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/3.png"
+      }
+    ]
+  },
+    
+  {
+    "id": 6,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/4.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/5.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/6.png"
+      }
+    ]
+  },
+
+  {
+    "id": 7,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/1.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/2.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/3.png"
+      }
+    ]
+  },
+
+  {
+    "id": 8,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/4.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/5.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/6.png"
+      }
+    ]
+  },
+
+  {
+    "id": 9,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/1.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/2.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/3.png"
+      }
+    ]
+  },
+        
+  {
+    "id": 10,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/4.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/5.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/6.png"
+      }
+    ]
+  },
+    
+  {
+    "id": 11,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/1.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/2.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/3.png"
+      }
+    ]
+  },
+
+  {
+    "id": 12,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/4.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/5.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/6.png"
+      }
+    ]
+  },
+
+  {
+    "id": 13,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/1.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/2.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/3.png"
+      }
+    ]
+  },
+          
+  {
+    "id": 14,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/4.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/5.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/6.png"
+      }
+    ]
+  },
+
+  {
+    "id": 15,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/1.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/2.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/3.png"
+      }
+    ]
+  },
+            
+  {
+    "id": 16,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/4.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/5.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/6.png"
+      }
+    ]
+  },
+
+  {
+    "id": 17,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/1.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/2.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/3.png"
+      }
+    ]
+  },
+              
+  {
+    "id": 18,
+    "name":"book name",
+    "price": "1000",
+    "images": [
+      {
+        "id": 1,
+        "image": "./assets/4.png"
+      },
+      {
+        "id": 2,
+        "image": "./assets/5.png"
+      },
+      {
+          "id": 3,
+          "image": "./assets/6.png"
+      }
+    ]
+  }
+
+  
+]
